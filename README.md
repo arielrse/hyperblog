@@ -1,2 +1,2 @@
 # hyperblog
-Blog
+Blog compartido
